@@ -59,7 +59,7 @@
           <mxGeometry x="442.69" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D-Alksl3Jc350YXAOYDe-47" value="Region" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="250" width="844" height="450" as="geometry" />
+          <mxGeometry x="140" y="250" width="830" height="450" as="geometry" />
         </mxCell>
         <mxCell id="D-Alksl3Jc350YXAOYDe-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="D-Alksl3Jc350YXAOYDe-47" target="D-Alksl3Jc350YXAOYDe-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -118,10 +118,10 @@
           <mxGeometry x="40" y="30" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="D-Alksl3Jc350YXAOYDe-25" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#F59D56;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;" parent="D-Alksl3Jc350YXAOYDe-47" vertex="1">
-          <mxGeometry x="10" y="50" width="660" height="350" as="geometry" />
+          <mxGeometry x="10" y="60" width="660" height="350" as="geometry" />
         </mxCell>
         <mxCell id="D-Alksl3Jc350YXAOYDe-15" value="ownCloud VPC Container" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;labelBackgroundColor=#ffffff;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;" parent="D-Alksl3Jc350YXAOYDe-47" vertex="1">
-          <mxGeometry x="50" y="30" width="660" height="330" as="geometry" />
+          <mxGeometry x="50" y="30" width="650" height="330" as="geometry" />
         </mxCell>
         <mxCell id="D-Alksl3Jc350YXAOYDe-44" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.customer_gateway;" parent="D-Alksl3Jc350YXAOYDe-15" vertex="1">
           <mxGeometry x="320" y="10" width="28" height="28" as="geometry" />
