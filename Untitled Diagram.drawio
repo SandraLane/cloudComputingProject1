@@ -130,7 +130,7 @@
           <mxGeometry x="-30" y="30" width="660" height="350" as="geometry" />
         </mxCell>
         <mxCell id="D-Alksl3Jc350YXAOYDe-79" value="Port 3306" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="D-Alksl3Jc350YXAOYDe-15" vertex="1">
-          <mxGeometry x="210" y="94" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="104" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y8xlik8x5C4-diGFhbr4-2" value="MySQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D-Alksl3Jc350YXAOYDe-15">
           <mxGeometry x="96" y="116" width="60" height="30" as="geometry" />
