@@ -9,9 +9,10 @@
             <mxPoint x="570" y="64" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OXcRZ888_6FS3b4C1-jk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="D-Alksl3Jc350YXAOYDe-3" edge="1">
+        <mxCell id="OXcRZ888_6FS3b4C1-jk-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.14;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="D-Alksl3Jc350YXAOYDe-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="885.0999999999999" y="421.25" as="targetPoint" />
+            <mxPoint x="811" y="64" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D-Alksl3Jc350YXAOYDe-3" value="" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
@@ -61,9 +62,6 @@
             <mxPoint x="385" y="120" as="sourcePoint" />
             <mxPoint x="385" y="72" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="D-Alksl3Jc350YXAOYDe-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="D-Alksl3Jc350YXAOYDe-47" vertex="1">
-          <mxGeometry x="720" y="160" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D-Alksl3Jc350YXAOYDe-30" value="User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="D-Alksl3Jc350YXAOYDe-47" vertex="1">
           <mxGeometry x="720" y="208.5" width="60" height="30" as="geometry" />
@@ -138,6 +136,9 @@
         </mxCell>
         <mxCell id="OXcRZ888_6FS3b4C1-jk-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="D-Alksl3Jc350YXAOYDe-47" source="y8xlik8x5C4-diGFhbr4-6" target="D-Alksl3Jc350YXAOYDe-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D-Alksl3Jc350YXAOYDe-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="D-Alksl3Jc350YXAOYDe-47" vertex="1">
+          <mxGeometry x="730" y="110" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OXcRZ888_6FS3b4C1-jk-22" value="&lt;span style=&quot;caret-color: rgb(213, 219, 219); color: rgb(213, 219, 219); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: nowrap; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 46, 51); text-decoration: none; display: inline !important; float: none;&quot;&gt;10.0.2.0/24&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="460" width="70" height="20" as="geometry" />
